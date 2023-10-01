@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning CyberSecurity, Networking, and System Administration
+- 🌱 I’m currently learning Networking and System Administration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizdhansyahlan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
