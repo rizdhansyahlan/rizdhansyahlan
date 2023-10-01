@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Networking and System Administration
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reihanrein&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Networking and System Administration
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reihanrein)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizdhansyahlan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizdhansyahlan)](https://github.com/anuraghazra/github-readme-stats)
